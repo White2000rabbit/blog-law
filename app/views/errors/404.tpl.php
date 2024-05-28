@@ -6,11 +6,9 @@
         <div class="row">
             <div class="col-md-8">
 
-                <?= $post ?>
-
+                <h3> 404 - Page not found </h3>
             </div>
 
-            <?php require VIEWS . '/incs/sidebar.php' ?>
         </div>
     </div>
 
